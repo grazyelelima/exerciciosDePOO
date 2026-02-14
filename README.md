@@ -1,7 +1,7 @@
 # 🚀 Desafios de Programação Orientada a Objetos (POO)
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Em_Progresso-green?style=for-the-badge)
+![Java](https://docs.oracle.com/javase/tutorial/java/concepts/\)
+
 
 Este repositório foi criado para documentar minha jornada de aprendizado e evolução em **Programação Orientada a Objetos** utilizando a linguagem **Java**. Aqui, resolvo desafios que aplicam desde os conceitos mais básicos até padrões de projeto mais robustos.
 
@@ -18,7 +18,7 @@ Além de explorar recursos modernos das versões recentes do Java, como *Unnamed
 
 ## 🛠️ Tecnologias e Ferramentas
 * **Linguagem:** Java 21+ (utilizando recursos de *preview* e sintaxe moderna)
-* **IDE:** VS Code / IntelliJ IDEA
+* **IDE:** IntelliJ IDEA
 * **Paradigma:** Orientação a Objetos
 
 ---
