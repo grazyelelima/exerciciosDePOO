@@ -1,7 +1,5 @@
 # 🚀 Desafios de Programação Orientada a Objetos (POO)
 
-![Java](https://docs.oracle.com/javase/tutorial/java/concepts/)
-
 
 Este repositório foi criado para documentar minha jornada de aprendizado e evolução em **Programação Orientada a Objetos** utilizando a linguagem **Java**. Aqui, resolvo desafios que aplicam desde os conceitos mais básicos até padrões de projeto mais robustos.
 
